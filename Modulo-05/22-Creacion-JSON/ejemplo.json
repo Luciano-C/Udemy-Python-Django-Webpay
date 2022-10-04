@@ -1,0 +1,74 @@
+{
+    "post": [
+        {
+            "id": 1,
+            "titulo": "T\u00edtulo de la publicaci\u00f3n 1",
+            "slug": "titulo-de-la-publicacion-1",
+            "detalle": "Texto de detalle con \u00f1and\u00fa 1",
+            "fecha": "2022-04-30"
+        },
+        {
+            "id": 2,
+            "titulo": "T\u00edtulo de la publicaci\u00f3n 2",
+            "slug": "titulo-de-la-publicacion-2",
+            "detalle": "Texto de detalle con \u00f1and\u00fa 2",
+            "fecha": "2022-04-30"
+        },
+        {
+            "id": 3,
+            "titulo": "T\u00edtulo de la publicaci\u00f3n 3",
+            "slug": "titulo-de-la-publicacion-3",
+            "detalle": "Texto de detalle con \u00f1and\u00fa 3",
+            "fecha": "2022-04-30"
+        },
+        {
+            "id": 4,
+            "titulo": "T\u00edtulo de la publicaci\u00f3n 4",
+            "slug": "titulo-de-la-publicacion-4",
+            "detalle": "Texto de detalle con \u00f1and\u00fa 4",
+            "fecha": "2022-04-30"
+        },
+        {
+            "id": 5,
+            "titulo": "T\u00edtulo de la publicaci\u00f3n 5",
+            "slug": "titulo-de-la-publicacion-5",
+            "detalle": "Texto de detalle con \u00f1and\u00fa 5",
+            "fecha": "2022-04-30"
+        },
+        {
+            "id": 6,
+            "titulo": "T\u00edtulo de la publicaci\u00f3n 6",
+            "slug": "titulo-de-la-publicacion-6",
+            "detalle": "Texto de detalle con \u00f1and\u00fa 6",
+            "fecha": "2022-04-30"
+        },
+        {
+            "id": 7,
+            "titulo": "T\u00edtulo de la publicaci\u00f3n 7",
+            "slug": "titulo-de-la-publicacion-7",
+            "detalle": "Texto de detalle con \u00f1and\u00fa 7",
+            "fecha": "2022-04-30"
+        },
+        {
+            "id": 8,
+            "titulo": "T\u00edtulo de la publicaci\u00f3n 8",
+            "slug": "titulo-de-la-publicacion-8",
+            "detalle": "Texto de detalle con \u00f1and\u00fa 8",
+            "fecha": "2022-04-30"
+        },
+        {
+            "id": 9,
+            "titulo": "T\u00edtulo de la publicaci\u00f3n 9",
+            "slug": "titulo-de-la-publicacion-9",
+            "detalle": "Texto de detalle con \u00f1and\u00fa 9",
+            "fecha": "2022-04-30"
+        },
+        {
+            "id": 10,
+            "titulo": "T\u00edtulo de la publicaci\u00f3n 10",
+            "slug": "titulo-de-la-publicacion-10",
+            "detalle": "Texto de detalle con \u00f1and\u00fa 10",
+            "fecha": "2022-04-30"
+        }
+    ]
+}
